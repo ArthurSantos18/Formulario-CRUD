@@ -2,7 +2,7 @@
 <p>Um formulário de registro de pessoas feitos em Python com interface gráfica.</p>
 
 <h2>Descrição</h2>
-<p>Esse projeto consiste em uma aplicação CRUD onde é possível registrar, visualizar, deletar e editar informações sobre as pessoas regisrtradas.</p>
+<p>Esse projeto consiste em uma aplicação CRUD onde é possível registrar, visualizar, deletar e editar informações sobre as pessoas registradas.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
